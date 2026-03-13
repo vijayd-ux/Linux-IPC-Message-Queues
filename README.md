@@ -66,7 +66,7 @@ return 0;
 }
 ```
 ## OUTPUT
-
+```
 ┌─[vijay@parrot]─[~]
 └──╼ $vi reciever.c
 ┌─[vijay@parrot]─[~]
@@ -75,7 +75,7 @@ return 0;
 └──╼ $./reciever.o
 Waiting for message...
 Received: Vijay
-
+```
 
 
 # RESULT:
